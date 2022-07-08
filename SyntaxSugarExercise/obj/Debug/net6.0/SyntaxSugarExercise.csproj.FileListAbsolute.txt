@@ -1,0 +1,15 @@
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/net6.0/SyntaxSugarExercise
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/net6.0/SyntaxSugarExercise.deps.json
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/net6.0/SyntaxSugarExercise.runtimeconfig.json
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/net6.0/SyntaxSugarExercise.dll
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/bin/Debug/net6.0/SyntaxSugarExercise.pdb
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.csproj.AssemblyReference.cache
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.AssemblyInfoInputs.cache
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.AssemblyInfo.cs
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.dll
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/refint/SyntaxSugarExercise.dll
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.pdb
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/SyntaxSugarExercise.genruntimeconfig.cache
+/Users/bradleycoy/Projects/SyntaxSugarExercise/SyntaxSugarExercise/obj/Debug/net6.0/ref/SyntaxSugarExercise.dll
